@@ -198,4 +198,3 @@ For issues and questions, please open an issue on GitHub.
 
 **Live Demo**: https://taskflow-sirecodes.vercel.app/
 
-**Made with ❤️ By Team Sire!**
