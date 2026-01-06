@@ -6,7 +6,7 @@ const nextConfig: NextConfig = {
     return [
       {
         source: '/api/:path*',
-        destination: 'https://devsire-todo-backend.hf.space/api/v1/:path*',
+        destination: 'https://ssooffiiaa-123-task-flow-to-do.hf.space/api/v1/:path*',
       },
     ];
   },
